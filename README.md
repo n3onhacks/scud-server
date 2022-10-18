@@ -13,7 +13,7 @@ The server will produce an Agent file for those who want to chat off the server 
 <h2>HOW TO USE: SERVER</h2> <p>
 
 1) Make sure you have openssl and sshpass installed.
-2) 'git commit https://github.com/n3onhacks/scud-server.git'
+2) 'git clone https://github.com/n3onhacks/scud-server.git'
 2) Chmod 777 the folder and run ./createAgent.sh
 3) Follow prompts to automatically make a link. Send the link (and encryption pw) for people to join.
 4) Scud is set to explode 30 Minutes after you get the file. 
